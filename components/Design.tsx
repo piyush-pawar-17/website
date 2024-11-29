@@ -14,7 +14,7 @@ const Design = () => {
 				/>
 			</section>
 			<a
-				href="https://dribbble.com/PiyushPawar17"
+				href="https://dribbble.com/piyush-pawar-17"
 				target="_blank"
 				rel="noreferrer noopener"
 				className="rounded-sm outline-none focus:ring-2 ring-primary ring-offset-2 focus:ring-offset-body link link--external link--social"

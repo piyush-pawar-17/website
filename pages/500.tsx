@@ -16,7 +16,7 @@ const Custom500 = () => {
 				<p className="text-lg text-center my-8">
 					While the issue is fixed, have a look at my
 					<a
-						href="https://github.com/PiyushPawar17"
+						href="https://github.com/piyush-pawar-17"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="mx-1 text-primary outline-none rounded-sm hover:underline focus:underline focus:ring ring-primary ring-offset-4 focus:ring-offset-body"
@@ -25,7 +25,7 @@ const Custom500 = () => {
 					</a>
 					or
 					<a
-						href="https://dribbble.com/PiyushPawar17"
+						href="https://dribbble.com/piyush-pawar-17"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="mx-1 text-primary outline-none rounded-sm hover:underline focus:underline focus:ring ring-primary ring-offset-4 focus:ring-offset-body"

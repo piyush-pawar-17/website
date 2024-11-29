@@ -9,29 +9,29 @@ const Development = () => {
 					title="Course Catalogue"
 					description="A website to find online courses"
 					tech={['React', 'Redux', 'Node.js', 'MongoDB']}
-					externalURL="https://github.com/PiyushPawar17/course-catalogue"
+					externalURL="https://github.com/piyush-pawar-17/course-catalogue"
 				/>
 				<ProjectCard
 					title="Colormark"
 					description="A website to save your favorite colors, palletes and gradients"
 					tech={['React', 'Redux', 'Styled Components', 'MongoDB']}
-					externalURL="https://github.com/PiyushPawar17/colormark"
+					externalURL="https://github.com/piyush-pawar-17/colormark"
 				/>
 				<ProjectCard
 					title="Classroom"
 					description="Desktop app similiar to Google Classroom"
 					tech={['React', 'Electron', 'Firebase']}
-					externalURL="https://github.com/PiyushPawar17/classroom"
+					externalURL="https://github.com/piyush-pawar-17/classroom"
 				/>
 				<ProjectCard
 					title="Developing Mind"
 					description="Personal Blog"
 					tech={['React', 'Next.js', 'Firebase']}
-					externalURL="https://github.com/PiyushPawar17/developing-mind"
+					externalURL="https://github.com/piyush-pawar-17/developing-mind"
 				/>
 			</section>
 			<a
-				href="https://github.com/PiyushPawar17"
+				href="https://github.com/piyush-pawar-17"
 				target="_blank"
 				rel="noreferrer noopener"
 				className="rounded-sm outline-none focus:ring-2 ring-primary ring-offset-2 focus:ring-offset-body link link--external link--social"

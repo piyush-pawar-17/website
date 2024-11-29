@@ -47,8 +47,8 @@ const App: React.FC<AppProps> = ({ Component, pageProps }) => {
 				<meta property="og:site_name" content="Piyush Pawar" />
 
 				<meta property="twitter:card" content="summary_large_image" />
-				<meta property="twitter:site" content="@PiyushPawar_17" />
-				<meta property="twitter:creator" content="@PiyushPawar_17" />
+				<meta property="twitter:site" content="@piyush_pawar_17" />
+				<meta property="twitter:creator" content="@piyush_pawar_17" />
 				<meta property="twitter:url" content="https://piyushpawar.dev" />
 				<meta property="twitter:title" content={meta.title} />
 				<meta property="twitter:description" content={meta.description} />

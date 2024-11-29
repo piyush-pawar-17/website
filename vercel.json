@@ -4,15 +4,15 @@
 	"redirects": [
 		{
 			"source": "/github",
-			"destination": "https://github.com/PiyushPawar17"
+			"destination": "https://github.com/piyush-pawar-17"
 		},
 		{
 			"source": "/dribbble",
-			"destination": "https://dribbble.com/PiyushPawar17"
+			"destination": "https://dribbble.com/piyush-pawar-17"
 		},
 		{
 			"source": "/twitter",
-			"destination": "https://twitter.com/PiyushPawar_17"
+			"destination": "https://twitter.com/piyush_pawar_17"
 		},
 		{
 			"source": "/linkedin",
